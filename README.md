@@ -1,4 +1,4 @@
-# VIM Basics Lesson 2
+# VIM Basics Lesson 4
 
 [link to presentation](https://cclulu.github.io/vim-basics-lesson-4/)
 this is a presentation about some vim basic lesson
